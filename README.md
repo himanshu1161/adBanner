@@ -18,8 +18,7 @@ This is a banner ad management application built using Next.js, React, and Tailw
 
 1. **Clone the repository:**
 
-git clone https://github.com/yourusername/banner-ad-management.git
-cd banner-ad-management
+git clone https://github.com/himanshu1161/adBanner
 
 2. **Install dependencies:**
 
