@@ -13,6 +13,7 @@ This is a banner ad management application built using Next.js, React, and Tailw
 - Next.js
 - React
 - Tailwind CSS
+- Typescript
 
 ## Installation
 
