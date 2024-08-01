@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "title": "Boost your Leads",
+        "description": "Harness AI for Effective Campaigns",
+        "cta": "Learn More",
+        "image": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/2/square.png",
+        "background": "bg-gray-200",
+        "textColor": "text-white",
+        "ctaTextColor": "text-black",
+        "ctaBgColor": "white",
+         "adImage": "https://images.unsplash.com/photo-1533022139390-e31c488d69e2?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 2,
+        "title": "Boost Your Leads",
+        "description": "Harness AI for Effective Campaigns",
+        "cta": "Learn More",
+        "image": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/17/square.png",
+        "background": "bg-gray-200",
+        "textColor": "text-black",
+        "ctaTextColor": "black",
+        "ctaBgColor": "white",
+        "adImage": "https://images.unsplash.com/photo-1479480562096-d9d7ec0d2925?q=80&w=2068&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 3,
+        "title": "Get High Quality Leads",
+        "description": "Harness AI for Effective Campaigns",
+        "cta": "Learn More",
+        "image": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/7/square.png",
+        "background": "bg-gray-200",
+        "textColor": "text-white",
+        "ctaBgColor": "orange",
+        "ctaTextColor": "black",
+         "adImage": "https://plus.unsplash.com/premium_photo-1673108852141-e8c3c22a4a22?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Zm9vZHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "id": 4,
+        "title": "Get High Quality Leads",
+        "description": "Harness AI for Effective Campaigns",
+        "cta": "Learn More",
+        "image": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/6/square.png",
+        "background": "bg-gray-200",
+        "textColor": "text-black",
+        
+        "ctaBgColor": "white",
+        "adImage": "https://images.unsplash.com/photo-1465056836041-7f43ac27dcb5?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 5,
+        "title": "Boost Your Leads",
+        "description": "Harness AI for Effective Campaigns",
+        "cta": "Learn More",
+        "image": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/10/square.png",
+        "background": "bg-gray-200",
+        "textColor": "text-white",
+        "ctaTextColor": "black",
+        "ctaBgColor": "white",
+         "adImage": "https://images.unsplash.com/photo-1653389525308-e7ab9fc0c260?q=80&w=2062&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 6,
+        "title": "Get High Quality Leads",
+        "description": "Harness AI for Effective Campaigns",
+        "cta": "Learn More",
+        "image": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/14/square.png",
+        "background": "bg-gray-200",
+        "textColor": "text-white",
+        "ctaTextColor": "text-yellow",
+        "ctaBgColor": "white",
+         "adImage": "https://images.unsplash.com/photo-1631434223678-08726a877c06?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fHRveXN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "id": 7,
+        "title": "Boost your Leads",
+        "description": "Harness AI for Effective Campaigns",
+        "cta": "Learn More",
+        "image": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/8/square.png",
+        "background": "bg-gray-200",
+        "textColor": "text-white",
+        "ctaTextColor": "text-black",
+        "ctaBgColor": "white",
+         "adImage": "/Abstract2.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Get High Quality Leads",
+        "description": "Harness AI for Effective Campaigns",
+        "cta": "Learn More",
+        "image": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/3/square.png",
+        "background": "bg-gray-200",
+        "textColor": "text-black",
+        "ctaTextColor": "yellow",
+        "ctaBgColor": "black",
+         "adImage": "https://images.unsplash.com/photo-1604882846805-a6813013c2b5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHRveXN8ZW58MHx8MHx8fDA%3D"
+    }
+]
